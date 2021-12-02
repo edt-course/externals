@@ -2,6 +2,6 @@
 &AtClient
 Procedure TestCommand(Command)
 	
-	Message( "Done" );
+	Message( "Error" );
 	
 EndProcedure
